@@ -1,3 +1,4 @@
 # sirius2021
-Репозиторий содержит решения задания к отбору на обучение в образовательном центре "Сириус" по направлению "БОЛЬШИЕ ДАННЫЕ И МАШИННОЕ ОБУЧЕНИЕ В КОГНИТИВНЫХ И СОЦИАЛЬНЫХ НАУКАХ". 
-Более подробная информация: https://sochisirius.ru/obuchenie/graduates/smena963/4641
+Repository contains solutions for problems of educational program "Big Data and Machine Learning in Cognitive and Social Sciences" (Educational center "Sirius")
+
+Additional info: https://sochisirius.ru/obuchenie/graduates/smena963/4641
